@@ -6,4 +6,5 @@ The sales/HR team of these enterprises want to understand the user behavior over
 The Dashboard will be created using data from these users.
 There are several steps to this process:
 
-The first step is to convert the JSON file to CSV to create an aggregated table.
+1) The first step is to convert the JSON file to CSV to create an aggregated table.
+2) Establish connection with MongoDB on MS Azure and retrieve data (alongwith number of documents in the database)
